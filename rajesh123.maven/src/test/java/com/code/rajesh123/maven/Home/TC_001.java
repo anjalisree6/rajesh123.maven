@@ -10,10 +10,12 @@ public class TC_001 {
 	public void test()
 	{
 		System.out.println("rajesh1");
+		System.out.println("rajesh123");
 	}
 	@Test
 	public void login()
 	{
+		System.out.println("rajesh2");
 		System.out.println("rajesh2");
 	}
 	@AfterTest
